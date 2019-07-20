@@ -28,6 +28,8 @@ My configurations:
 
  Thesis: 455.0pt  == (,)
  
- Banner: 695.55pt  == (,)
+ Poster: 695.55pt  == (,)
+ 
+ Oral:
  
 [site_ref]: https://jwalton.info/Embed-Publication-Matplotlib-Latex/
