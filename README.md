@@ -26,7 +26,8 @@ will be 455.0.
  
 My configurations:
 
- Thesis: 455.0pt ==> (,)
- Banner: 695.55pt ==> (,)
+ Thesis: 455.0pt **==>** (,)
+ 
+ Banner: 695.55pt **==>** (,)
  
 [site_ref]: https://jwalton.info/Embed-Publication-Matplotlib-Latex/
