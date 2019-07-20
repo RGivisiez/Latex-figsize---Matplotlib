@@ -28,7 +28,7 @@ def set_size(width_pt, width_fraction=1):
     fig_width_in_inches = fig_width_in_pt * inches_per_pt
     
     # Figure height in inches.
-    fig_height_in_inches = fig_width_in_inches * (golden_ratio / 2.)
+    fig_height_in_inches = fig_width_in_inches * (golden_ratio / 2.) # It get better if you divide by 2.
 
     fig_dim = (fig_width_in_inches, fig_height_in_inches)
 
