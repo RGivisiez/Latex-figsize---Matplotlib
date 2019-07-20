@@ -21,7 +21,7 @@ or
 >
 > l.28 \showthe\columnwidth
 
-The first number is used as a entry for the function. For example, if the width found is 455.0pt, the entry in the python function
+The first number is used as a entry for the function. For example, if the width found is 455.0pt the entry in the python function
 will be 455.0.
  
 My configurations:
