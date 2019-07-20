@@ -26,9 +26,9 @@ will be 455.0.
  
 My configurations:
 
- Thesis: 455.0 pt  == (,)
+ Thesis: 455.0 pt  == (6.32, 5.11)
  
- Poster: 695.55 pt  == (,)
+ Poster: 695.55 pt  == (9.65, 7.81)
  
  Slide:
  
