@@ -1,2 +1,3 @@
-# Latex-figsize---Matplotlib
-Funções para dimensionar as figuras do matplotlib
+# Matplotlib figsize for latex
+
+  This module returns the correct figure size for Latex documents.
