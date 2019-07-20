@@ -1,5 +1,5 @@
 def set_size(width_pt, width_fraction=1):
-    """ Set the "right" figure size for a latex text. The height is chosen using the golden ratio.
+    """ Set the crrect figure size for a latex text. The height is chosen using the golden ratio.
 
     Parameters
     ----------
