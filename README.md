@@ -30,6 +30,6 @@ My configurations:
  
  Poster: 695.55 pt  == (,)
  
- Slides:
+ Slide:
  
 [site_ref]: https://jwalton.info/Embed-Publication-Matplotlib-Latex/
