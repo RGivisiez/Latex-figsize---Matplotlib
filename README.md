@@ -1,4 +1,4 @@
-# Matplotlib figsize for latex
+# Matplotlib figure size for latex
 
   - This module returns the correct figure size for a Latex document. 
   - I used this [site][site_ref] as a reference.
